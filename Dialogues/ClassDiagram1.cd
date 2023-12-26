@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dialogue">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Assets\Script\Dialogues\Dialogue.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DialogueAnimator">
+    <Position X="9.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAIAAAAAAAAAAAEAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Assets\Script\Dialogues\DialogueAnimator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DialogueManager">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAiAKAAABAAAAAAAAAAAAAAAAAAIABAAAIAAAQ=</HashCode>
+      <FileName>Assets\Script\Dialogues\DialogueManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DialogueTrigger">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Dialogues\DialogueTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="End">
+    <Position X="8" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\End.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FrameSwitch">
+    <Position X="8.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\FrameSwitch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Inventory">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAQAAAAAAAAAAAQAAACAAAACAAAAAA=</HashCode>
+      <FileName>Assets\Script\Inventory\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pickup">
+    <Position X="8.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAACEAAAAACAAAAAAAAAgA=</HashCode>
+      <FileName>Assets\Script\Inventory\Pickup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Slot">
+    <Position X="6.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAACICAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Inventory\Slot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Spawn">
+    <Position X="8.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAQQAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Inventory\Spawn.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParallaxBackground">
+    <Position X="10" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAQAABKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Parallax\ParallaxBackground.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParallaxCamera">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="ParallaxCamera.ParallaxCameraDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Script\Parallax\ParallaxCamera.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AASAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Parallax\ParallaxCamera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ParallaxLayer">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Assets\Script\Parallax\ParallaxLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayerController">
+    <Position X="3" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAEiAAAAAEAAAAAAEAAAAACUAMAQAAAAAQAAA=</HashCode>
+      <FileName>Assets\Script\PlayerController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bush">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAEAQAAIIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Quest\Bush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Case">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAEAAAAAAAAAAAAAAAAAIgAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Quest\Case.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Luck">
+    <Position X="10" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAEAAAAAAAAAAgIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Quest\Luck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Picture">
+    <Position X="1" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAIAAAAAAAEAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Script\Quest\Picture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quests">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACCAAEAAIAAAAgAAAQAAEAAAAgAAAAAAAAAAgQ=</HashCode>
+      <FileName>Assets\Script\Quest\Quests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tree">
+    <Position X="1" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAEAAAAAIAAAAAAQAAA=</HashCode>
+      <FileName>Assets\Script\Quest\Tree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
